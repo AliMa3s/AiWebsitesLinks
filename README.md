@@ -12,6 +12,7 @@ Here's a list of open-source chatbot websites:
 10. [iAsk AI](https://iask.ai/) (web-browsing)
 11. [Phind AI](https://www.phind.com/) (web-browsing)
 12. [HuggingChat](https://huggingface.co/chat) (not as accurate)
+13. [ForFrontAI](https://chat.forefront.ai/) (good one)
 
 Here's a list of sign-up chatbot websites:
 
